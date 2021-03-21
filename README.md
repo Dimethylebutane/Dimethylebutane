@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dimethylebutane
+- 👋 Hi, I’m @Dimethylebutane
 - 👀 I’m interested in too many things
 - 🌱 I’m currently learning physics
 - 💞️ I’m looking to collaborate on nothing
