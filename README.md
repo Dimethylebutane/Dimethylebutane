@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dimethylebutane
 - 👀 I’m interested in electronics engineering
-- 🌱 I’m currently Student at Arts et Métiers
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently a Student at Arts et Métiers
+- 💞️ I’m looking to collaborate on nothing :)
 - 📫 How to reach me: gregoire.dreno@gadz.org
 
 <!---
