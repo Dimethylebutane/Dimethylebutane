@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dimethylebutane
 - 👀 I’m interested in electronics engineering
-- 🌱 I’m currently a Student at Arts et Métiers
+- 🌱 I’m currently a Student at Arts et Métiers, and Université Paris Saclay (M1 in electronics)
 - 💞️ I’m looking to collaborate on reducing greenhouse gases emmisions :)
 - 📫 How to reach me: gregoire.dreno@gadz.org
 
